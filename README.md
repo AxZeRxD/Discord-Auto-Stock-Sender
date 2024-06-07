@@ -1,6 +1,5 @@
 # Discord Bot - Auto Messenger 🤖💬
 
-## [download](https://github.com/AxZeRxD/Discord-Auto-Stock-Sender/releases/download/Discord-Auto-Stock-Sender/launcher.zip)
 
 This Python script is a Discord bot that automatically sends messages to specific channels in specified guilds at regular intervals.
 
